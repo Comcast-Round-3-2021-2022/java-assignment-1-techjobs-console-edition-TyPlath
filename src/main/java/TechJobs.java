@@ -127,6 +127,7 @@ public class TechJobs {
 
 //        System.out.println("printJobs is not implemented yet");
 
+        //for each loop to iterate through each item in arrayList
         for (HashMap printAll : someJobs) {
             System.out.print("\n");
             System.out.println("*****");
